@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Arkattia Website
 
-## Getting Started
+Official website for Arkattia — an independent game studio focused on immersive, atmospheric, and narrative-driven gaming experiences.
 
-First, run the development server:
+The website is designed with a cinematic AAA-inspired visual direction, combining dark immersive aesthetics, smooth interactions, and modern web technologies to create a premium interactive experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Arkattia’s digital presence showcases:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- The studio vision and identity
+- Upcoming games and worlds
+- The Arkattia Engine
+- Community and studio updates
+- Atmospheric storytelling through design
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The overall experience focuses on cinematic presentation, immersive visuals, responsive layouts, and smooth user interactions inspired by modern AAA game studio websites.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Website Highlights
 
-To learn more about Next.js, take a look at the following resources:
+- Cinematic fullscreen hero sections
+- Dark immersive visual style
+- Responsive modern UI
+- Smooth animations and transitions
+- Interactive section-based storytelling
+- Premium hover and motion effects
+- Custom cursor interactions
+- Atmospheric particle backgrounds
+- Mobile-friendly responsive experience
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Featured Worlds
 
-## Deploy on Vercel
+### Entity Unknown
+A psychological horror experience where reality fractures and hidden truths begin to emerge from the darkness.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Ghost Hunt
+A supernatural horror experience built around mystery, tension, and atmospheric exploration.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Project Fujin
+A supernatural horror world inspired by Japanese folklore near Mount Fuji.
+
+---
+
+## Vision
+
+Arkattia aims to create immersive digital experiences where cinematic storytelling, atmosphere, and interaction merge into a single cohesive journey.
+
+The website reflects that philosophy through visual storytelling, interactive presentation, and immersive world-building.
